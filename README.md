@@ -1,7 +1,7 @@
 
 <p>
   
-# 💫 About Me:
+#  About Me:
 🎓 Bachelor's in Information Technology | 📅 Graduated in [2019]
 
 🔧 Currently at OQ E&P Department: Operated Assets | ⏳ [6 months] and counting
